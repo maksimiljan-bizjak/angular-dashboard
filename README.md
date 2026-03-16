@@ -1,2 +1,6 @@
-# TailwindAdmin-Angular
-TailwindAdmin Angular
+Angular
+dashboard
+for
+monitoring
+electricity
+usage
